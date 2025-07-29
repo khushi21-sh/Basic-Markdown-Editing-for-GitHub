@@ -51,7 +51,7 @@
 ```
 | Name       | Role           | GitHub Username |
 |------------|----------------|-----------------|
-| Santosh    | Task Lead      | @santoshpanda1995 |
+| Santosh    | Task Lead      | @santoshpanda1995 |.
 | Aniruddh   | Volunteer      | @aniruddhxyz    |
 | Priya      | Designer       | @priyacodes     |
 
